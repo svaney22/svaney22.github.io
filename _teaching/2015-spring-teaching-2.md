@@ -8,7 +8,9 @@ date: 2019-09-01
 location: "Edinburgh, United Kingdom"
 ---
 
-Linguistics and English Language 1A is a 20 credit course taken in Semester 1. LEL1A provides an introductory course to the structure and use of English and other languages. It aims to give students an understanding of:
+Linguistics and English Language 1A is a 20 credit course taken in Semester 1. LEL1A provides an introductory course to the structure and use of English and other languages. 
+
+It aims to give students an understanding of:
 
  - The difference between descriptive and prescriptive approaches to language and grammer.
  - The basic features of speech sounds, sound systems, word structure and sentence structure.
