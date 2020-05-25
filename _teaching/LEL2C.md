@@ -1,17 +1,18 @@
 ---
-title: "English in Time and Space"
+title: "LEL2C: English in Time and Space"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/LEL2C
-venue: "University 1, Department"
+venue: "University of Edinburgh, Linguistics and English Language"
 date: 2019-01-01
-location: "City, Country"
+location: "Edinburgh, United Kingdom"
 ---
 English in Time and Space
 
 2019
 ======
-Summer Term
+Autumn Term
 
-Heading 2
+2020
 ======
+Autumn Term
