@@ -2,7 +2,7 @@
 title: "LEL1A: Introduction to Linguistics"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/LEL1A
 venue: "University of Edinburgh, English Language and Linguistics"
 date: 2019-09-01
 location: "Edinburgh, United Kingdom"
