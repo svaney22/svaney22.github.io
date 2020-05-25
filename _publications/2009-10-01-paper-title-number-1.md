@@ -4,11 +4,11 @@ collection: publications
 permalink: /publication/t-to-r in north-west England
 excerpt: 'This paper is in preparation'
 date: 2020-12-31
-venue:
+venue: Journal 1
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Watson, K., Clark, L. & van Eyndhoven, S. (in prep). &quot;'t-to-r'in north-west England: Lexical frequency, schema strength and transitional probability.&quot;.'
+citation: 'Watson, K., Clark, L. and van Eyndhoven, S. (2020). &quot;'t-to-r'in north-west England: Lexical frequency, schema strength and transitional probability.&quot;.'
 ---
 This paper is currently in preparation. 
 
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Watson, K., Clark, L. and van Eyndhoven, S. (2020). " "t-to-r" in north=west England: Lexical frequency, schema strength and transitional probability." <i>Journal 1</i>. 1(1).
