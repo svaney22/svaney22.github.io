@@ -11,30 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A(Hons - First Class) in Linguistics and History, University of Canterbury, New Zealand, 2015
+* M.A. in Linguistics, University of Canterbury, New Zealand, 2018
+* Ph.D in Linguistics and English Language, University of Edinburgh, 2019 - current
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -54,6 +34,21 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Committee Work
 ======
-* Currently signed in to 43 different slack teams
+* Co-orginiser of Language in Context seminar series (2019 - present)
+
+
+Work Experience
+======
+* 2018-2019: Research Assistant
+  * University of Canterbury, New Zealand
+  * Audio transcription and segmentation, independent grant research
+  * Supervisor: Dr Lynn Clark and Prof. Jennifer Hay
+
+* 2014-2015: Research Assistant
+  * University of Canterbury, New Zealand
+  * Phonetic transcription and coding, statistical analysis, literary research, drafting and editing manuscript
+  * Supervisor: Dr Kevin Watson
+  
+
