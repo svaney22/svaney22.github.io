@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 2"
+title: "LEL1A: Introduction to Linguistics"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Edinburgh, English Language and Linguistics"
+date: 2019-09-01
+location: "Edinburgh, United Kingdom"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Linguistics and English Language 1A is a 20 credit course taken in Semester 1. LEL1A provides an introductory course to the structure and use of English and other languages. It aims to give students an understanding of:
 
-Heading 1
-======
+ - The difference between descriptive and prescriptive approaches to language and grammer.
+ - The basic features of speech sounds, sound systems, word structure and sentence structure.
+ - The function of language as a vehicle for communication.
+ - Some of the special features of human language.
 
-Heading 2
-======
 
-Heading 3
+2019
 ======
+Spring term
+
