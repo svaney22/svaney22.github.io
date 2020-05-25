@@ -6,7 +6,7 @@ excerpt: 'This paper is in preparation'
 date: 2020-12-31
 venue:
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Watson, K., Clark, L. and van Eyndhoven, S. (2020). &quot;t-to-r in north-west England: Lexical frequency, schema strength and transitional probability.&quot;.'
+citation: 'Watson, K., Clark, L. and van Eyndhoven, S. (2020). &quot; <q>t-to-r<q> in north-west England: Lexical frequency, schema strength and transitional probability.&quot;.'
 ---
 This paper is currently in preparation. 
 
