@@ -1,7 +1,7 @@
 ---
 title: "The &lt;quh-&gt;–&lt;wh-&gt; switch: an empirical account of the anglicisation of a Scots variant in Scotland during the sixteenth and seventeenth centuries"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/quh
 excerpt: 
 date: 2020-01-01
 venue: 'Journal 1'
