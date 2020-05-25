@@ -1,9 +1,8 @@
 ---
-title: "<q>t-to-r<q> in north-west England: lexical frequency, schema strength and transitional probability."
+title: "<q>t-to-r<q> in north-west 4England: lexical frequency, schema strength and transitional probability."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1.md
+permalink: /publication/ttor
 excerpt: 'This paper is in preparation'
-date: 2020-12-31
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Watson, K., Clark, L. and van Eyndhoven, S. (2020). &quot; <q>t-to-r<q> in north-west England: Lexical frequency, schema strength and transitional probability.&quot;.'
 ---
