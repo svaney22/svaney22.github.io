@@ -1,15 +1,11 @@
 ---
-title: "The &lt;quh-&gt;–&lt;wh-&gt; switch: an empirical account of the anglicisation of a Scots variant in Scotland during the sixteenth and seventeenth centuries"
+title: "2020"
 collection: publications
 permalink: /publication/quh
 excerpt: 
-date: 2020-01-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2020-03-01
+venue: 'English Language and Linguistics'
+paperurl: 'https://www-cambridge-org.ezproxy.is.ed.ac.uk/core/journals/english-language-and-linguistics/article/quhwh-switch-an-empirical-account-of-the-anglicisation-of-a-scots-variant-in-scotland-during-the-sixteenth-and-seventeenth-centuries/7F8BDD1B6FB15E209D5662A47C1C78E8'
+citation: 'van Eyndhoven, Sarah and Clark, Lynn. (2020). &quot;The &lt;quh-&gt;-&lt;wh-&gt; switch: an empirical account of the anglicisation of a Scots variant in Scotland during the sixteenth and seventeenth centuries.&quot; <i>English Language and Linguistics</i>. 24(1).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
