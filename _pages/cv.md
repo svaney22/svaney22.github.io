@@ -38,7 +38,6 @@ Committee Work
 ======
 * Co-orginiser of Language in Context seminar series (2019 - present)
 
-
 Work Experience
 ======
 * 2018-2019: Research Assistant
@@ -51,4 +50,4 @@ Work Experience
   * Phonetic transcription and coding, statistical analysis, literary research, drafting and editing manuscript
   * Supervisor: Dr Kevin Watson
   
-
+Full CV: 
