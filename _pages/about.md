@@ -1,16 +1,15 @@
 ---
 permalink: /
 title: "Sarah van Eyndhoven"
-excerpt: "About me"
+excerpt:
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-
-======
+About me
+====
 
 I am a linguistics PhD student and AMC (Angus McIntosh Centre for historical linguistics) scholar at the University of Edinburgh, based within the School of Philosophy, Psychology, and Language Sciences. My main research interests are historical sociolinguistics, historical Scots and the interactions between language, politics and identity. 
 
