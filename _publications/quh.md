@@ -1,5 +1,5 @@
 ---
-title: "2020"
+title: "The &lt;quh-&gt;-&lt;wh-&gt; switch: an empirical account of the anglicisation of a Scots variant in Scotland during the sixteenth and seventeenth centuries"
 collection: publications
 permalink: /publication/quh
 excerpt: 
