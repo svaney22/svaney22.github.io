@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Sarah van Eyndhoven"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Sarah van Eyndhoven"
 description              : &description "I am a linguistics PhD student studying at the University of Edinburgh. My research looks at use of written Scots during the Union debates in 1707 and the role of identity, indexicality and style shifting in its use"
