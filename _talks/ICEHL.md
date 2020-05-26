@@ -8,4 +8,3 @@ date: 2018-08-27
 location: "Edinburgh, UK"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
