@@ -1,7 +1,7 @@
 ---
 title: "t-to-r in north-west England: lexical frequency, schema strength and transitional probability"
 collection: publications
-permalink: /publication/liv
+permalink: /publications/Liv
 excerpt: Conference Proceedings
 date: 2015-07-01
 venue: '13th International Cognitive Linguistics Conference'
