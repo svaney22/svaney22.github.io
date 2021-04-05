@@ -1,9 +1,9 @@
 ---
-title: "The Effects of Socio-Political Change on Historical Scots"
+title: "Politics, Pragmatism and Persistence: Written Scots during the Union debates in personal correspondence"
 collection: talks
 type: "Conference talk"
-permalink: /talks/ICEHL
-venue: "20th International Conference of English Historical Linguistics (ICEHL XX)"
-date: 2018-08-27
-location: "Edinburgh, UK"
+permalink: /talks/NARNiHS 21
+venue: "North American Research Network in Historical Sociolinguistics Conference (NARNiHS 21)"
+date: 2021-01-08
+location: "Online"
 ---
