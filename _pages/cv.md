@@ -51,3 +51,4 @@ Work Experience
   * Supervisor: Dr Kevin Watson
   
 Full CV: 
+[CV_van_Eyndhoven.pdf](https://github.com/svaney22/svaney22.github.io/files/6257705/CV_van_Eyndhoven.pdf)
