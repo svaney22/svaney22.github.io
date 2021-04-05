@@ -21,9 +21,9 @@ It aims to give students an understanding of:
 
 2019
 ======
-Spring term
+Autumn term
 
 2020
 ======
-Spring term
+Autumn term
 
