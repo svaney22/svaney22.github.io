@@ -14,12 +14,12 @@ The course starts with contemporary British dialects and considers the history t
 
 2019
 ======
-Autumn Term
+Spring Term
 
 2020
 ======
-Autumn Term
+Spring Term
 
 2021
 ======
-Autumn Term
+Spring Term
