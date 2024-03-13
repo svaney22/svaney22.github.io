@@ -36,7 +36,7 @@ Teaching
   
 Committee Work
 ======
-* Co-orginiser of Language in Context seminar series (2019 - present)
+* Co-orgainiser of Language in Context seminar series (2019 - 2022)
 
 Work Experience
 ======
