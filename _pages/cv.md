@@ -13,7 +13,7 @@ Education
 ======
 * B.A(Hons - First Class) in Linguistics and History, University of Canterbury, New Zealand, 2015
 * M.A. in Linguistics, University of Canterbury, New Zealand, 2018
-* Ph.D in Linguistics and English Language, University of Edinburgh, 2019 - current
+* Ph.D in Linguistics and English Language, University of Edinburgh, 2019 - 2023
 
 
 Publications
