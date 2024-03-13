@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "About"
 title_separator          : "-"
 name                     : &name "Sarah van Eyndhoven"
-description              : &description "I am a linguistics PhD student studying at the University of Edinburgh. My research looks at use of written Scots during the Union debates in 1707 and the role of identity, indexicality and style shifting in its use"
+description              : &description "I am a Rutherford Foundation postdoctoral fellow based within the New Zealand Institute of Language, Brain and Behaviour at the University of Canterbury, New Zealand. My research examines the changing language use of early Scottish immigrants to New Zealand during the late nineteenth century. In particular, it examines use of Scots, New Zealand English and Māori lexis in their correspondence, and the role of shifting identity and social networks in conditioning their occurrence"
 url                      : https://svaney22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://svaney22.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Sarah van Eyndhoven"
-  avatar           : "IMG_2206.png"
-  bio              : "Linguistics PhD student at the University of Edinburgh studying 18th century Scots"
-  location         : "The University of Edinburgh"
+  avatar           : "20231005-DSCF4127.jpg"
+  bio              : "Postdoctoral Fellow student at the New Zealand Institute of Language, Brain and Behaviour (NZILBB)"
+  location         : "The University of Canterbury, New Zealand"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=M086JgUAAAAJ"
-  email            : "s1890120@ed.ac.uk"
+  email            : "sarah.vaneyndhoven@canterbury.ac.nz"
   researchgate     : "https://www.researchgate.net/profile/Sarah-Van-Eyndhoven-2"
   uri              :
   bitbucket        :
