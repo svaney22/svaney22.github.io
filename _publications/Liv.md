@@ -1,7 +1,7 @@
 ---
 title: Eighteenth century Scots in correspondence during the Union Debates: An intra-writer perspective.
 collection: publications
-permalink: /publications/liv
+permalink: /publications/Liv
 excerpt: Book Chapter
 date: 2023
 venue: Historical Sociolinguistics
