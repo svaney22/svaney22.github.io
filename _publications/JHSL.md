@@ -2,7 +2,7 @@
 title: '"An Eye for an Aye: Linguistic and Political Backlash and Conformity in Eighteenth-Century Scots."'
 collection: publications
 permalink: /publications/JHSL
-excerpt: Article
+excerpt: 'Article'
 date: '2021-07-01'
 venue: 'Journal of Historical Sociolinguistics'
 paperurl: 'https://www.degruyter.com/document/doi/10.1515/jhsl-2020-0004/html'
