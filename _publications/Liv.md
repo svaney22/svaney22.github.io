@@ -1,5 +1,5 @@
 ---
-title: "Quhen I am begun to write I really knou not what to say" Inter- and Intra-writer Variation in the Use of quh- in Early Modern Scots. 
+title: '"Quhen I am begun to write I really knou not what to say" Inter- and Intra-writer Variation in the Use of quh- in Early Modern Scots.' 
 collection: publications
 permalink: /publication/Liv
 excerpt: Conference Proceeding
