@@ -1,10 +1,10 @@
 ---
-title: "t-to-r in north-west England: lexical frequency, schema strength and transitional probability"
+title: Eighteenth century Scots in correspondence during the Union Debates: An intra-writer perspective.
 collection: publications
-permalink: /publications/Liv
-excerpt: Conference Proceedings
-date: 2015-07-01
-venue: '13th International Cognitive Linguistics Conference'
+permalink: /publications/intra
+excerpt: Book Chapter
+date: 2023
+venue: Historical Sociolinguistics
 paperurl: 'https://journals-sagepub-com.ezproxy.is.ed.ac.uk/doi/full/10.1177/0075424219849093'
-citation: 'Watson, K., Clark, L. and van Eyndhoven, S. (2015). &quot;t-to-r in north-west England: lexical frequency, schema strength and transitional probability.&quot; <i>13th International Cognitive Linguistics Conference Proceedings</i>, Newcastle, UK 20-25 July, 2015.'
+citation: Eighteenth century Scots in correspondence during the Union Debates: An intra-writer perspective. In M. Schiegg & J. Huber (Eds.), Intra-writer Variation in Historical Sociolinguistics. Peter Lang: Oxford, 271-294.
 ---
